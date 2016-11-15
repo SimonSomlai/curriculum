@@ -95,6 +95,7 @@ Note that, for this project, you may want to create a throwaway Twitter account 
 * [Leonard Soai-Van's solution](https://github.com/leosoaivan/TOP_twitter)
 * [David Chapman's solution](https://github.com/davidchappy/odin_training_projects/tree/master/micro_blogger)
 * [Jakub Peikert's solution](https://github.com/JPeikert/odin_project/tree/master/ruby/web/microblogger)
+* [Simon's solution](https://github.com/SimonSomlai/Odin/blob/master/ruby/twitter_spambot.rb)
 
 ## Project 2: A Real Web Server and Browser (from the command line)
 
